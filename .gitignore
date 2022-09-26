@@ -1,0 +1,5 @@
+target/
+.idea/
+.settings.xml
+generated-sources/
+src/main/resources/avro/*.avpr
